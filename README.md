@@ -11,8 +11,8 @@
  `git clone https://github.com/W31RDSKY/FbVD`
 
 #RUN command
- `cd FbVD`
- `chmod +x *`
+ *`cd FbVD`*
+ *`chmod +x *`*
  `php fbd.php`
 
 #SIMPLE COMMAND 
