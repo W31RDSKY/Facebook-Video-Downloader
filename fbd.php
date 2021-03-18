@@ -18,7 +18,7 @@ echo "
 
 
                                                 VERSION 1.0.0
-                                             CREATED BY R3D#@X0r
+                                             CREATED BY W31RDSKY
                                                                                                              
 ";
 echo "\n\n";
