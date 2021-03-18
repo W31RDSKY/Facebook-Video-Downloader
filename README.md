@@ -6,8 +6,11 @@
    ***copy and paste the commands in termux***
 
  `apt update && apt upgrade `
+
  `pkg install git `
+
  `pkg install php `
+
  `git clone https://github.com/W31RDSKY/FbVD`
 
 #RUN command
