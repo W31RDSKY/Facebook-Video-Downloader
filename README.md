@@ -5,10 +5,10 @@
 
    ***copy and paste the commands in termux***
 
- *`apt update && apt upgrade `
- *`pkg install git `
- *`pkg install php `
- *`git clone https://github.com/W31RDSKY/FbVD`
+ `apt update && apt upgrade `
+ `pkg install git `
+ `pkg install php `
+ `git clone https://github.com/W31RDSKY/FbVD`
 
 #RUN command
  `cd FbVD`
@@ -18,9 +18,9 @@
 #SIMPLE COMMAND 
 
 ```
-*apt update && apt upgrade 
-*pkg install git
-*pkg imstall php
-*git clone https://github.com/W31RDSKY/FbVD
-*cd FbVD
-*php fbd.php
+apt update && apt upgrade 
+pkg install git
+pkg imstall php
+git clone https://github.com/W31RDSKY/FbVD
+cd FbVD
+php fbd.php
