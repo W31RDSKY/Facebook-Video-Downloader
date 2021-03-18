@@ -16,11 +16,6 @@ echo "
 |__|  |_____|   \___/|_____|____/|_____|_____|  |____/|_____|_____|_|___|_____|_____|__|__|____/|_____|__|__|
 
 
-m     m mmmmmm mmmmm  mmmmm  mmmm    mmmm  m    mm     m
-#  #  # #        #    #   "# #   "m #"   " #  m"  "m m"
-" #"# # #mmmmm   #    #mmmm" #    # "#mmm  #m#     "#"
- ## ##" #        #    #   "m #    #     "# #  #m    #
- #   #  #mmmmm mm#mm  #    " #mmm"  "mmm#" #   "m   #
 
                                                 VERSION 1.0.0
                                              CREATED BY R3D#@X0r
